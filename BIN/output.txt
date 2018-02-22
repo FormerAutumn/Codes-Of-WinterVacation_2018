@@ -1,0 +1,7 @@
+On 14,stop on 10. Passenger 3 arrives.
+On 15,stop on 10. Passenger 4 arrives.
+On 16,stop on 10. Passenger 1 arrives.
+On 17,stop on 10. Passenger 2 arrives.
+On 18,stop on 10. Passenger 5 arrives.
+
+The total wating time: 70 s.
